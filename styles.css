@@ -1,0 +1,136 @@
+body {
+    background-color: #F0F0F0;
+}
+
+.brownie-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 24px;
+}
+
+.box {
+    background-color: #FFFFFF;
+    border-radius: 5px;
+    width: 798px;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.title {
+    color: #FF6A28;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 8px;
+}
+
+.subtitle {
+    margin-top: 8px;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.image {
+    margin-top: 14px;
+}
+
+.container {
+    display: flex;
+}
+
+.info-box {
+    margin-top: 10px;
+    margin-right: 9px;
+    width: 118px;
+    height: 85px;
+    background-color: #F0F0F0;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.info-box-2 {
+    margin-top: 10px;
+    margin-right: 9px;
+    width: 238px;
+    height: 85px;
+    background-color: #F0F0F0;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+}
+
+.alarm-icon {
+    margin-top: 14px;
+}
+
+.info-text {
+    text-transform: uppercase;
+    margin-top: 4.86px;
+}
+
+.info-strong-text {
+    text-transform: uppercase;
+    color: #FF6A28;
+    margin-bottom: 14px;
+}
+
+.box-2 {
+    margin-top: 37px;
+    background-color: #FFFFFF;
+    border-radius: 5px;
+    width: 798px;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.title-ingredients {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.ingredients-list {
+    margin-top: 12px;
+    margin-left: 27px;
+    margin-bottom: 30px;
+}
+
+.box-3 {
+    margin-top: 14px;
+    background-color: #FFFFFF;
+    border-radius: 5px;
+    width: 798px;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.box-4 {
+    margin-top: 16px;
+    margin-bottom: 63px;
+    background-color: #FFFFFF;
+    border-radius: 5px;
+    width: 798px;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.additional-information {
+    background-color: #F0F0F0;
+    padding: 8px 0 7px;
+    display:flex;
+    justify-content: center;
+}
+
+.additional-title {
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.additional-information-text {
+    font-size: 14px;
+    margin: 16px 33px 21px 22px;
+}
